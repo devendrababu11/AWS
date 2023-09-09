@@ -1,0 +1,5 @@
+create an VPC in the aws console
+after creating that we want to add that vpc in ec2 instance while creating
+In Security Groups we want to give the access the traffic to access the site in internet
+in gitbash  we want to connect and do sudo apt update to update packages
+To create the port we use python as python -m http:server 8000
